@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_Recordset2" value="name:schoolName;datatype:string,name:address;datatype:string,name:town;datatype:string" />
+	<infoitem key="UD_Recordset1" value="name:Surname;datatype:string,name:FName;datatype:string,name:GradeName;datatype:string,name:streamName;datatype:string,name:year;datatype:string,name:Term;datatype:int" />
+	<infoitem key="UD_Recordset3" value="name:S1;datatype:real,name:S2;datatype:real,name:S3;datatype:real,name:S4;datatype:real,name:S5;datatype:real,name:S6;datatype:real,name:S7;datatype:real,name:S8;datatype:real,name:S9;datatype:real" />
+	<infoitem key="UD_Recordset4" value="name:S1;datatype:real,name:S2;datatype:real,name:S3;datatype:real,name:S4;datatype:real,name:S5;datatype:real,name:S6;datatype:real,name:S7;datatype:real,name:S8;datatype:real,name:S9;datatype:real" />
+	<infoitem key="UD_Recordset5" value="name:S1;datatype:real,name:S2;datatype:real,name:S3;datatype:real,name:S4;datatype:real,name:S5;datatype:real,name:S6;datatype:real,name:S7;datatype:real,name:S8;datatype:real,name:S9;datatype:real" />
+</info>
